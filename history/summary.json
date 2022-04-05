@@ -22,18 +22,20 @@
     "url": "https://stag-pzt.mokapis.com/api/info",
     "icon": "https://favicons.githubusercontent.com/stag-pzt.mokapis.com",
     "slug": "stag-pzt-mokapis-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 627,
-    "timeDay": 627,
-    "timeWeek": 627,
-    "timeMonth": 627,
-    "timeYear": 627,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 1552,
+    "timeDay": 1552,
+    "timeWeek": 1552,
+    "timeMonth": 1552,
+    "timeYear": 1552,
+    "dailyMinutesDown": {
+      "2022-04-05": 0
+    }
   },
   {
     "name": "www.pizzattitude.com",
