@@ -22,19 +22,19 @@
     "url": "https://stag-pzt.mokapis.com/api/info",
     "icon": "https://favicons.githubusercontent.com/stag-pzt.mokapis.com",
     "slug": "stag-pzt-mokapis-com",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 1552,
-    "timeDay": 1552,
-    "timeWeek": 1552,
-    "timeMonth": 1552,
-    "timeYear": 1552,
+    "status": "up",
+    "uptime": "70.00%",
+    "uptimeDay": "70.00%",
+    "uptimeWeek": "70.00%",
+    "uptimeMonth": "70.00%",
+    "uptimeYear": "70.00%",
+    "time": 1341,
+    "timeDay": 1341,
+    "timeWeek": 1341,
+    "timeMonth": 1341,
+    "timeYear": 1341,
     "dailyMinutesDown": {
-      "2022-04-05": 0
+      "2022-04-05": 11
     }
   },
   {
