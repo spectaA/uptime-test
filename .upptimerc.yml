@@ -3,15 +3,28 @@ owner: spectaA # Your GitHub organization or username, where this repository liv
 repo: uptime-test # The name of this repository
 
 sites:
-  - name: API PZT PROD
+  - name: prod-pzt.mokapis.com
     url: https://prod-pzt.mokapis.com/api/info
-  - name: API MWD PROD
-    url: https://prod-mwd.mokapis.com/api/info
-  - name: FRONT PZT SHOP
-    url: https://www.pizzattitude.com
-  - name: FRONT PZT BACKOFFICE
+
+  - name: stag-pzt.mokapis.com
+    url: https://stag-pzt.mokapis.com/api/info
+
+  - name: admin.pizzattitude.com
     url: https://admin.pizzattitude.com
-  - name: FRONT LORA
+
+  - name: stag-mwd.mokapis.com
+    url: https://stag-mwd.mokapis.com/api/info
+
+  - name: prod-mwd.mokapis.com
+    url: https://prod-mwd.mokapis.com/api/info
+
+  - name: www.pizzattitude.com
+    url: https://www.pizzattitude.com
+
+  - name: www.marionwillems.be
+    url: https://www.marionwillems.be/
+    
+  - name: www.lora-construct.be
     url: https://www.lora-construct.be/
 
 status-website:
