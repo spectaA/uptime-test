@@ -9,6 +9,9 @@ sites:
   - name: stag-pzt.mokapis.com
     url: https://stag-pzt.mokapis.com/api/info
 
+  - name: www.pizzattitude.com
+    url: https://www.pizzattitude.com
+
   - name: admin.pizzattitude.com
     url: https://admin.pizzattitude.com
 
@@ -17,9 +20,6 @@ sites:
 
   - name: prod-mwd.mokapis.com
     url: https://prod-mwd.mokapis.com/api/info
-
-  - name: www.pizzattitude.com
-    url: https://www.pizzattitude.com
 
   - name: www.marionwillems.be
     url: https://www.marionwillems.be/
