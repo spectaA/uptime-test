@@ -4,36 +4,40 @@
     "url": "https://prod-pzt.mokapis.com/api/info",
     "icon": "https://favicons.githubusercontent.com/prod-pzt.mokapis.com",
     "slug": "prod-pzt-mokapis-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 791,
     "timeDay": 799,
     "timeWeek": 791,
     "timeMonth": 791,
     "timeYear": 791,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-08": 2
+    }
   },
   {
     "name": "stag-pzt.mokapis.com",
     "url": "https://stag-pzt.mokapis.com/api/info",
     "icon": "https://favicons.githubusercontent.com/stag-pzt.mokapis.com",
     "slug": "stag-pzt-mokapis-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1204,
     "timeDay": 585,
     "timeWeek": 1204,
     "timeMonth": 1204,
     "timeYear": 1204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-08": 1
+    }
   },
   {
     "name": "www.pizzattitude.com",
@@ -76,27 +80,29 @@
     "url": "https://stag-mwd.mokapis.com/api/info",
     "icon": "https://favicons.githubusercontent.com/stag-mwd.mokapis.com",
     "slug": "stag-mwd-mokapis-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 550,
     "timeDay": 577,
     "timeWeek": 550,
     "timeMonth": 550,
     "timeYear": 550,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-08": 1
+    }
   },
   {
     "name": "prod-mwd.mokapis.com",
     "url": "https://prod-mwd.mokapis.com/api/info",
     "icon": "https://favicons.githubusercontent.com/prod-mwd.mokapis.com",
     "slug": "prod-mwd-mokapis-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +111,9 @@
     "timeWeek": 578,
     "timeMonth": 578,
     "timeYear": 578,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-08": 0
+    }
   },
   {
     "name": "www.marionwillems.be",
