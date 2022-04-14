@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/prod-pzt.mokapis.com",
     "slug": "prod-pzt-mokapis-com",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 687,
     "timeDay": 363,
     "timeWeek": 624,
@@ -44,9 +44,9 @@
     "url": "https://www.pizzattitude.com",
     "icon": "https://favicons.githubusercontent.com/www.pizzattitude.com",
     "slug": "www-pizzattitude-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,16 +55,18 @@
     "timeWeek": 663,
     "timeMonth": 514,
     "timeYear": 514,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 1
+    }
   },
   {
     "name": "admin.pizzattitude.com",
     "url": "https://admin.pizzattitude.com",
     "icon": "https://favicons.githubusercontent.com/admin.pizzattitude.com",
     "slug": "admin-pizzattitude-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +75,9 @@
     "timeWeek": 212,
     "timeMonth": 243,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "stag-mwd.mokapis.com",
@@ -81,11 +85,11 @@
     "icon": "https://favicons.githubusercontent.com/stag-mwd.mokapis.com",
     "slug": "stag-mwd-mokapis-com",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 534,
     "timeDay": 350,
     "timeWeek": 527,
