@@ -46,9 +46,9 @@
     "url": "https://www.pizzattitude.com",
     "icon": "https://favicons.githubusercontent.com/www.pizzattitude.com",
     "slug": "www-pizzattitude-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -58,6 +58,7 @@
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
+      "2022-05-02": 0,
       "2022-04-14": 33
     }
   },
@@ -66,9 +67,9 @@
     "url": "https://admin.pizzattitude.com",
     "icon": "https://favicons.githubusercontent.com/admin.pizzattitude.com",
     "slug": "admin-pizzattitude-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -78,6 +79,7 @@
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {
+      "2022-05-02": 0,
       "2022-04-14": 33
     }
   },
@@ -87,11 +89,11 @@
     "icon": "https://favicons.githubusercontent.com/stag-mwd.mokapis.com",
     "slug": "stag-mwd-mokapis-com",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 575,
     "timeDay": 702,
     "timeWeek": 536,
@@ -147,18 +149,18 @@
     "icon": "https://favicons.githubusercontent.com/www.lora-construct.be",
     "slug": "www-lora-construct-be",
     "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "82.15%",
-    "uptimeWeek": "97.45%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
+    "uptime": "98.36%",
+    "uptimeDay": "56.63%",
+    "uptimeWeek": "93.80%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
     "time": 633,
     "timeDay": 0,
     "timeWeek": 434,
     "timeMonth": 633,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2022-05-02": 112,
+      "2022-05-02": 480,
       "2022-05-01": 145
     }
   }
