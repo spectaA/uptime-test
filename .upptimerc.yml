@@ -23,9 +23,6 @@ sites:
 
   - name: www.marionwillems.be
     url: https://www.marionwillems.be/
-    
-  - name: www.lora-construct.be
-    url: https://www.lora-construct.be/
 
 assignees:
   - spectaA
