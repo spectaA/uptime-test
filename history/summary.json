@@ -150,9 +150,9 @@
     "url": "https://www.marionwillems.be/",
     "icon": "https://favicons.githubusercontent.com/www.marionwillems.be",
     "slug": "www-marionwillems-be",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,6 +161,8 @@
     "timeWeek": 346,
     "timeMonth": 457,
     "timeYear": 507,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-08": 0
+    }
   }
 ]
